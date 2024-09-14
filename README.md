@@ -1,3 +1,1 @@
-try
-puts Заметки и код для курса по Ruby
-puts "Заметки и код для курса по Ruby"
+puts 'my notes for a course'
